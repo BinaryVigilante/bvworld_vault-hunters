@@ -687,6 +687,12 @@
     },
     "done": true
   },
+  "refinedstorage:crafting_on_demand": {
+    "criteria": {
+      "upgrade_in_inventory": "2024-08-17 16:10:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-06-02 22:47:50 +0200"
