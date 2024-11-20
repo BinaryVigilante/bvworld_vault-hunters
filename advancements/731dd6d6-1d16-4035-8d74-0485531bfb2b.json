@@ -729,6 +729,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-11-12 21:42:16 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2023-06-02 22:25:23 +0200"
@@ -902,6 +908,7 @@
       "minecraft:slime": "2023-06-18 13:39:45 +0200",
       "minecraft:evoker": "2024-01-24 19:25:14 +0100",
       "minecraft:phantom": "2023-07-02 15:17:54 +0200",
+      "minecraft:zombified_piglin": "2024-11-12 20:47:43 +0100",
       "minecraft:witch": "2023-10-02 22:25:46 +0200",
       "minecraft:wither_skeleton": "2023-11-13 21:50:17 +0100",
       "minecraft:husk": "2023-06-12 21:21:12 +0200",
